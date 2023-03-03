@@ -27,6 +27,7 @@ body {
     font-size: 14px;
     line-height: 1.2;
     font-weight: 400;
+    margin: -1.2px;
 }
 
 .header {
@@ -62,7 +63,7 @@ body {
 
 .promo__inner {
     min-height: 100vh;
-    text-align: center;
+    text-align: left;
 }
 
 .title {
@@ -79,12 +80,28 @@ body {
     font-weight: 400;
 }
 
-.submit {
-    position: absolute;
-    width: 1150px;
-    height: 273px;
-    left: 1596px;
-    top: 1617px;
-    background: #0D3394;
-    border-radius: 108px;
+.about {
+    font-family: 'Impact', sans-serif;
+    color: #FFFFFF;
+    font-weight: 400;
+}
+
+.about2 {
+    font-family: 'Impact', sans-serif;
+    color: #FFFFFF;
+    font-weight: 400;
+}
+
+.about3 {
+    font-family: 'Impact', sans-serif;
+    color: #FFFFFF;
+    font-weight: 400;
+}
+
+.button {
+    font-family: 'Impact', sans-serif;
+    color: #FFFFFF;
+    font-weight: 100;
+    text-align: center;
+    font-size: 3.0rem;
 }
